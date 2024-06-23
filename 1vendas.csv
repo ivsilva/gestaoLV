@@ -1,0 +1,161 @@
+DATA,ID/SERVIÇOS,OBSERVAÇÃO,NOME/LAVADOR,HORARIO,NOME/CLIENTE,FORMA/PAG,DESCRIÇÃO,VALOR
+13/05/2024,1,Lavagem completa, Klisman ,08H,Andre,Pix,Fan - Moto," R$  20,00 "
+13/05/2024,2,Lavagem completa, Diogo ,09H,Carlos,Pix,Fan - Moto," R$  20,00 "
+13/05/2024,3,Higienização, Dede ,10H,Diego,Pix,Fan - Moto," R$  20,00 "
+13/05/2024,4,Lavagem completa, Outro ,11H,Ana,Pix,Hb20 Cinza - Carro," R$  60,00 "
+14/05/2024,5,Lavagem Simples , Klisman ,08H,Geraldo,Pix,Golf Branco - Carro," R$  50,00 "
+14/05/2024,6,Lavagem simples, Diogo ,09H,Erenilson,Pix,Toro Branca - Carro," R$  50,00 "
+14/05/2024,7,Lavagem completa , Dede ,10H,Andre,Pix,CG Preta - Moto," R$  20,00 "
+14/05/2024,8,Lavagem completa , Outro ,11H,Carlos,Pix,Uno Vermelho - Carro," R$  60,00 "
+14/05/2024,9,Lavagem completa , Klisman ,12H,Diego,Pix,Bros - Moto," R$  40,00 "
+14/05/2024,10,Lavagem completa , Diogo ,13H,Ana,Pix,Onix Vermelho - Carro," R$  60,00 "
+15/05/2024,11,Lavagem completa, Dede ,14H,Geraldo,Pix,Itios Cinza - Carro," R$  60,00 "
+15/05/2024,12,Lavagem completa, Outro ,15H,Erenilson,Pix,S10 Branca - Carro," R$  70,00 "
+15/05/2024,13,Lavagem completa, Klisman ,16H,Andre,Pix,Pop 100 - Moto," R$  20,00 "
+16/05/2024,14,Higienização + Higienização , Diogo ,08H,Carlos,Pix,Strada - Carro ," R$  450,00 "
+16/05/2024,15,Revitalizar Plástico , Dede ,09H,Diego,Especie,Biz Vermelha - Moto," R$  70,00 "
+16/05/2024,16,Lavagem completa, Outro ,10H,Ana,Pix,Bros Preta - Moto," R$  20,00 "
+17/05/2024,17,Lavagem completa + Motor, Klisman ,11H,Geraldo,Pix,Vectra - Carro," R$  210,00 "
+17/05/2024,18,Lavagem completa + Motor, Diogo ,08H,Erenilson,Pix,Vectra Branco - Carro," R$  210,00 "
+17/05/2024,19,Lavagem completa, Dede ,09H,Andre,Pix,Mobi Branco - Carro," R$  60,00 "
+18/05/2024,20,Lavagem simples , Outro ,10H,Carlos,Pix,Kwid Branco - Carro ," R$  50,00 "
+18/05/2024,21,Lavagem simples , Klisman ,11H,Diego,Pix,Strada Branca - Carro ," R$  50,00 "
+18/05/2024,22,Lavagem completa , Diogo ,12H,Ana,Pix,Strada Cinza - Carro ," R$  60,00 "
+18/05/2024,23,Lavagem Simples, Dede ,13H,Geraldo,Pix,Corolla Cross - Branco ," R$  50,00 "
+18/05/2024,24,Lavagem completa + Motor, Outro ,12H,Erenilson,Pix,Civic - Branco ," R$  210,00 "
+18/05/2024,25,Lavagem Simples, Klisman ,12H,Andre,Pix,Corolla - Branco ," R$  50,00 "
+18/05/2024,26,Lavagem completa, Diogo ,16H,Carlos,Pix,Fazer - Preta ," R$  20,00 "
+18/05/2024,27,Lavagem completa, Dede ,16H,Diego,Pix,Honda 4000i  ," R$  20,00 "
+18/05/2024,28,Lavagem simples , Outro ,07H50,Ana,Pix,Triblazer - Branca ," R$  70,00 "
+18/05/2024,29,Lavagem simples , Klisman ,09H30,Geraldo,Cartão,Triblazer - Vinho," R$  70,00 "
+20/05/2024,30,Vitrificação, Diogo ,13h30,Erenilson,Especie,CrosFox Cinza - Carro," R$  120,00 "
+20/05/2024,31,Lavagem completa, Dede ,15h40,Andre,Pix,Biz - Azul," R$  20,00 "
+20/05/2024,32,Higienização , Outro ,16H10,Carlos,Pix,Civic - Verde," R$  300,00 "
+20/05/2024,33,Lavagem completa , Klisman ,16H30,Diego,Pix,Corolla - Branco ," R$  60,00 "
+20/05/2024,34,Lavagem completa + Cristalizar , Diogo ,09h30,Ana,Pix,Kia Cerato - Preto ," R$  50,00 "
+20/05/2024,35,Lavagem completa, Dede ,10h00,Geraldo,Pix,CG fan - Vermelha," R$  20,00 "
+20/05/2024,36,Lavagem Simples, Outro ,10h30,Erenilson,Pix,Fiat Argo Branco - Carro," R$  50,00 "
+09/12/2023,37,Lavagem Simples, Klisman ,11h30,Andre,Pix,Equatorial - Carro," R$  30,00 "
+09/12/2023,38,Lavagem Simples, Diogo ,12h30,Carlos,Cartão,Celta - Carro," R$  50,00 "
+09/12/2023,39,Lavagem completa, Dede ,13h50,Diego,Pix,Fiat Toro - Carro," R$  60,00 "
+13/12/2023,40,Lavagem, Outro ,08H50,Ana,Pix,S10 VInho - Carro," R$  30,00 "
+13/12/2023,41,Lavagem Simples, Klisman ,10h30,Geraldo,Pix,Corolla Branco - Carro," R$  50,00 "
+13/12/2023,42,Lavagem Simples, Diogo ,13h00,Erenilson,Pix,Toyota Etios - Cinza - Carro," R$  50,00 "
+13/12/2023,43,Lavagem completa, Dede ,14h30,Andre,Pix,Fiat Argo Vermelho - Carro," R$  60,00 "
+14/12/2023,44,Lavagem completa, Outro ,09h30,Carlos,Pix,Fan 150," R$  20,00 "
+14/12/2023,45,Lavagem completa, Klisman ,08h15,Diego,Pix,S 10 Branca," R$  60,00 "
+14/12/2023,46,Lavagem completa, Diogo ,10h00,Ana,Pix,Classic LS," R$  130,00 "
+14/12/2023,47,Lavagem completa, Dede ,10h00,Geraldo,Pix,Sofa," R$  80,00 "
+14/12/2023,48,Higienização, Outro ,08h00,Erenilson,Pix,Caminhão Mercedez," R$  250,00 "
+14/12/2023,49,Lavagem completa, Klisman ,10h03,Andre,Pix,Prisma Cinza," R$  60,00 "
+14/12/2023,50,Lavagem Simples, Diogo ,14h15,Carlos,Pix,Strada Branco," R$  50,00 "
+15/12/2023,51,Lavagem Completa, Dede ,07h30,Diego,Pix,Bros 150 Vermelha," R$  20,00 "
+15/12/2023,52,Higienização, Outro ,07h30,Ana,Pix,Corolla Cinza - Carro," R$  200,00 "
+15/12/2023,53,Higienização, Klisman ,07h30,Geraldo,Pix,Classic Preto - Carro," R$  100,00 "
+15/12/2023,54,Lavagem Simples, Diogo ,08h30,Erenilson,Pix,Onix Vermelho - Carro," R$  30,00 "
+15/12/2023,55,Higienização de Sofa, Dede ,14h20,Andre,Pix,Sofa," R$  180,00 "
+16/12/2023,56,Lavagem Completa, Outro ,07h30,Carlos,Pix,Hyundai IX -35 - Branco," R$  50,00 "
+16/12/2023,57,Lavagem Completa, Klisman ,08h30,Diego,Cartão Debito,YBR - 125 - Preta," R$  20,00 "
+16/12/2023,58,Lavagem Completa, Diogo ,08h50,Ana,Pix,Honda Civic - Cinza," R$  60,00 "
+16/12/2023,59,Lavagem Simples, Dede ,09h00,Geraldo,Pix,Kwid Branco," R$  50,00 "
+16/12/2023,60,Lavagem Simples, Outro ,09h10,Erenilson,Pix,Nissan Kicks," R$  50,00 "
+16/12/2023,61,Lavagem Simples, Klisman ,09h30,Andre,Pix,Pollo CInza," R$  60,00 "
+16/12/2023,62,Lavagem Completa, Diogo ,09h35,Carlos,Cartão Credito,Fazer Azul - Moto," R$  20,00 "
+16/12/2023,63,Lavagem Completa, Dede ,11h15,Diego,Pix,Fiat Adventure - Cinza," R$  60,00 "
+16/12/2023,64,Lavagem Simples, Outro ,12h00,Ana,Pix,Equatorial - Carro," R$  30,00 "
+16/12/2023,65,Lavagem Completa, Klisman ,12h01,Geraldo,Pix,Clacique Polo - Cinza," R$  60,00 "
+16/12/2023,66,Lavagem Completa, Diogo ,12h02,Erenilson,Pix,Onix Branco - Carro," R$  60,00 "
+16/12/2023,67,Lavagem Simples, Dede ,12h03,Carlos,Pix,Fiat Uno - Vinho," R$  50,00 "
+18/12/2023,68,Lavagem Simples, Outro ,09H00,Diego,Pix,Susuki Yes - Cinza," R$  20,00 "
+18/12/2023,69,Higienização, Klisman ,09H00,Ana,Cartão Credito,Sofa + Cama," R$  320,00 "
+19/12/2023,70,Lavagem Completa, Diogo ,09H00,Geraldo,Pix,Bross 160 - Preta," R$  40,00 "
+19/12/2023,71,Lavagem Simples, Dede ,10h,Erenilson,Pix,Onix Vermelho - Carro," R$  50,00 "
+20/12/2023,72,Higienização, Outro ,10h30,Carlos,Pix,Ranger Cinza - Carro," R$  300,00 "
+20/12/2023,73,Higienização , Klisman ,12h09,Diego,Pix,Celta - Vermelho ," R$  300,00 "
+21/12/2023,74,Lavagem Simples, Diogo ,12h10,Ana,Pix,Onix Branco - Carro," R$  50,00 "
+21/12/2023,75,Lavagem Simples, Dede ,12h11,Geraldo,Pix,Continuação da Ranger,
+21/12/2023,76,Lavagem Simples, Outro ,12h12,Erenilson,Pix,Continuação do Celta,
+22/12/2023,77,Lavagem Simples, Klisman ,12h13,Carlos,Pix,Continuação do Celta,
+22/12/2023,78,"Lavar, Polir e Farol", Diogo ,08h00,Diego,Pix,Celta - Prata," R$  50,00 "
+22/12/2023,79,Lavagem Completa, Dede ,12h15,Ana,Pix,Onix - Preto," R$  60,00 "
+22/12/2023,80,Lavagem Completa, Outro ,12h16,Geraldo,Pix,Biz Verde - Moto," R$  20,00 "
+22/12/2023,81,Lavagem Completa, Klisman ,12h17,Erenilson,Pix,Yamaha XTZ," R$  20,00 "
+22/12/2023,82,Lavagem Completa, Diogo ,14h00,Carlos,Pix,Pajeiro - Vinho," R$  60,00 "
+22/12/2023,83,Lavagem Simples, Dede ,14h00,Diego,Pix,Prisma Branco," R$  50,00 "
+02/01/2024,84,Lavagem Completa, Outro ,07h30,Ana,Pix,Ford Fiesta - Branco," R$  300,00 "
+02/01/2024,85,Lavagem Simples, Klisman ,09h00,Geraldo,Especie,Hinday Hb20 - Branco," R$  60,00 "
+02/01/2024,86,Lavagem Simples, Diogo ,12h22,Erenilson,Pix,Strada - Branco - Rsa," R$  50,00 "
+02/01/2024,87,Lavagem Simples, Dede ,12h23,Carlos,Pix,Hilux - Branca," R$  60,00 "
+02/01/2024,88,Lavagem Simples, Outro ,15h00,Diego,Pix,Jeep - Azul," R$  50,00 "
+03/01/2024,89,Lavagem Completa, Klisman ,08h00,Ana,Pix,Biz preta," R$  100,00 "
+03/01/2024,90,Higienização, Diogo ,09h50,Geraldo,Pix,Spin Branca," R$  300,00 "
+03/01/2024,91,Lavagem Completa, Dede ,10h15,Erenilson,Pix,Titan 160," R$  60,00 "
+04/01/2024,92,Lavagem Completa, Outro ,09h15,Carlos,Pix,Onix eco - Branco," R$  60,00 "
+04/01/2024,93,Lavagem Completa, Klisman ,12h29,Diego,Especie,Hilux - Branca," R$  70,00 "
+04/01/2024,94,Lavagem Simples, Diogo ,15h45,Ana,Pix,HB20 - Cinza," R$  50,00 "
+05/01/2024,95,Lavagem , Dede ,08h20,Geraldo,Especie,S10 VInho - Carro," R$  30,00 "
+05/01/2024,96,Lavagem Simples, Outro ,09h00,Erenilson,Pix,Corolla Cinza - Carro," R$  50,00 "
+05/01/2024,97,Lavagem Simples, Klisman ,09h20,Carlos,Pix,Onix - Branco ," R$  50,00 "
+05/01/2024,98,Lavagem Completa, Diogo ,14h30,Diego,Pix,Fiat Bravo - Branco," R$  60,00 "
+05/01/2024,99,Lavagem Completa, Klisman ,12h10,Ana,Pix,Corolla Branco - Carro," R$  60,00 "
+05/01/2024,100,Lavagem Simples, Diogo , 14h30 ,Geraldo,Pix,HB20 Cinza - Carro," R$  50,00 "
+06/01/2024,101,Lavagem Completa, Dede ,08h00,Erenilson,Pix,Civic - Cinza," R$  60,00 "
+06/01/2024,102,Lavagem Completa, Outro ,09h30,Carlos,Pix,Corolla - Branco ," R$  60,00 "
+06/01/2024,103,Lavagem Simples, Klisman ,10h20,Diego,Pix,HB20 s - Branco," R$  50,00 "
+06/01/2024,104,Lavagem Simples, Diogo ,12h00,Ana,Pix,Onix - Branco," R$  50,00 "
+06/01/2024,105,Lavagem Simples, Dede ,12h40,Geraldo,Pix,Jeep - Branco ," R$  69,00 "
+06/01/2024,106,Lavagem Simples, Outro ,16h00,Erenilson,Cartão Debito,Fiesta - Branco," R$  30,00 "
+08/01/2024,107,Lavagem Simples, Klisman ,08h10,Carlos,Pix,Polo Cinza," R$  100,00 "
+08/01/2024,108,Lavagem Simples, Diogo ,09h00,Diego,Pix,S10 - Branca," R$  170,00 "
+08/01/2024,109,Higienização , Dede ,10h30,Ana,Pix,Gol - Branco ,
+08/01/2024,110,Lavagem Simples, Outro ,10h30,Geraldo,Pix,Ford Ka - Branco ," R$  50,00 "
+08/01/2024,111,Lavagem Simples, Klisman ,16h30,Erenilson,Pix,S10 - Vinho ," R$  30,00 "
+09/01/2024,112,Lavagem , Diogo ,08h00,Carlos,Pix,Strada - Branca," R$  30,00 "
+09/01/2024,113,Lavagem Completa , Dede ,10h00,Diego,Pix,Onix - Branco," R$  50,00 "
+09/01/2024,114,Higienização , Outro ,10h00,Ana,Pix,Gol - Branco ," R$  300,00 "
+09/01/2024,115,Lavagem Completa , Klisman ,10h40,Geraldo,Pix,Prisma - Cinza," R$  60,00 "
+10/01/2024,116,Lavagem Completa , Diogo ,08h40,Erenilson,Pix,Hinday - Preto ," R$  60,00 "
+10/01/2024,117,Lavagem Simples, Dede ,10h00,Carlos,Pix,Pulse - Branco ," R$  50,00 "
+10/01/2024,118,Lavagem Completa , Outro ,15h30,Diego,Pix,Corolla - Branco ," R$  230,00 "
+10/01/2024,119,Higienização , Klisman ,14h00,Ana,Pix,Voiage - Branco ,
+10/01/2024,120,Lavagem Completa , Diogo ,14h10,Geraldo,Pix,CrossFox - Branco ," R$  60,00 "
+11/01/2024,121,Higienização , Dede ,14h00,Erenilson,Pix,Voiage - Branco ," R$  300,00 "
+11/01/2024,122,Lavagem Simples, Outro ,08h30,Carlos,Pix,Toyota - Etios Cinza," R$  50,00 "
+11/01/2024,123,Lavagem Simples, Klisman ,14h40,Diego,Especie,Classic Cinza," R$  50,00 "
+11/01/2024,124,Lavagem Completa , Diogo ,17h40,Ana,Pix,Fiat Argo - Vermelho ," R$  60,00 "
+12/01/2024,125,Lavagem Simples, Dede ,12h00,Geraldo,Pix,Hilux - Cinza," R$  50,00 "
+12/01/2024,126,Lavagem Simples, Outro ,15h00,Erenilson,Pix,Onix preto - Carro," R$  50,00 "
+12/01/2024,127,Lavagem Completa , Klisman ,16h00,Carlos,Pix,Cronus - Branco," R$  60,00 "
+12/01/2024,128,Lavagem Simples, Diogo ,16h00,Diego,Pix,Virtus - Prata," R$  60,00 "
+13/01/2024,129,Lavagem Simples, Dede ,16h00,Ana,Pix,Biz Preta," R$  20,00 "
+13/01/2024,130,Lavagem Simples, Outro ,,Geraldo,Pix,,
+13/01/2024,131,Lavagem Simples, Klisman ,,Erenilson,Pix,,
+13/01/2024,132,Lavagem Simples, Diogo ,,Carlos,Pix,,
+25/11/2023,133,Lavagem Simples, Dede ,,Diego,Pix,,
+23/11/2023,134,Lavagem Simples, Outro ,,Ana,Pix,,
+21/11/2023,135,Lavagem Simples, Klisman ,,Geraldo,Pix,,
+19/11/2023,136,Lavagem Simples, Diogo ,,Erenilson,Pix,,
+17/11/2023,137,Lavagem Simples, Dede ,,Carlos,Pix,,
+15/11/2023,138,Lavagem Simples, Outro ,,Diego,Pix,,
+13/11/2023,139,Lavagem Simples, Klisman ,,Ana,Pix,,
+11/11/2023,140,Lavagem Simples, Diogo ,,Geraldo,Pix,,
+09/11/2023,141,Lavagem Simples, Dede ,,Erenilson,Pix,,
+07/11/2023,142,Lavagem Simples, Outro ,,Carlos,Pix,,
+05/11/2023,143,Lavagem Simples, Klisman ,,Diego,Pix,,
+03/11/2023,144,Lavagem Simples, Diogo ,,Ana,Pix,,
+01/11/2023,145,Lavagem Simples, Dede ,,Geraldo,Pix,,
+30/10/2023,146,Lavagem Simples, Outro ,,Erenilson,Pix,,
+28/10/2023,147,Lavagem Simples, Klisman ,,Carlos,Pix,,
+26/10/2023,148,Lavagem Simples, Diogo ,,Diego,Pix,,
+24/10/2023,149,Lavagem Simples, Dede ,,Ana,Pix,,
+22/10/2023,150,Lavagem Simples, Outro ,,Geraldo,Pix,,
+20/10/2023,151,Lavagem Simples, Klisman ,,Erenilson,Pix,,
+18/10/2023,152,Lavagem Simples, Diogo ,,Carlos,Pix,,
+16/10/2023,153,Lavagem Simples, Dede ,,Diego,Pix,,
+14/10/2023,154,Lavagem Simples, Outro ,,Ana,Pix,,
+12/10/2023,155,Lavagem Simples, Klisman ,,Geraldo,Pix,,
+10/10/2023,156,Lavagem Simples, Diogo ,,Erenilson,Pix,,
+08/10/2023,157,Lavagem Simples, Dede ,,Carlos,Pix,,
+06/10/2023,158,Lavagem Simples, Outro ,,Diego,Pix,,
+04/10/2023,159,Lavagem Simples, Klisman ,,Ana,Pix,,
+02/10/2023,160,Lavagem Simples, Diogo ,,Geraldo,Pix,,
