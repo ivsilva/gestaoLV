@@ -3,6 +3,7 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime, timedelta
 import os
+import plotly
 import plotly.express as px
 
 
